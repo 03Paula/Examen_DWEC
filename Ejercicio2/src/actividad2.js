@@ -28,7 +28,6 @@ document.addEventListener('DOMContentLoaded',function () {
 
     /**
      * Comprueba si las fechas que ha introducido el usuario son números y mayores o iguales de 2001 y menores o iguales de 2500.
-     * @returns 
      */
     function comprobacion(){
 
